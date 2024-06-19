@@ -1,4 +1,5 @@
 transformers
 TensorFlow
 tf-keras
-pip
+yfinance
+bs4
