@@ -3,3 +3,9 @@ TensorFlow
 tf-keras
 yfinance
 bs4
+TensorRT
+protobuf==3.20.3
+torch
+torchvision
+torchaudio
+tensorflow-gpu==2.8.0

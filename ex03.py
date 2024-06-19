@@ -23,7 +23,7 @@ def analyze_sentiment(text):
     return result[0]['label']
 
 # Example usage for a stock (e.g., Apple - AAPL)
-stock_ticker = 'AAPL'
+stock_ticker = 'NU'
 
 # Get stock data
 stock_data = get_stock_data(stock_ticker)
