@@ -1,0 +1,4 @@
+transformers
+TensorFlow
+tf-keras
+pip
